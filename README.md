@@ -9,6 +9,7 @@ Channel Effects added are:
 
 Using PSS and SSS timing offset is corrected and using cyclic prefix correlation frequency offset is corrected.
 Detection of PSS and SSS is performed after it.
+Estimates of offsets vs SNR of noise is plotted.
 
 Reference : 
 1. [PSS](https://www.sharetechnote.com/html/Handbook_LTE_PSS.html)
